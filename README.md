@@ -1,7 +1,7 @@
 # Google Maps JAVA demo
 
 ## Instructions
-* Include every .JAR file inside "JxBrowserLibs/lib"
+* Include every .JAR file inside "JxBrowserLibs/lib" into your java application.
 
 ## Other Considerations
 * License.jar is a JxBrowser 30-days evaluation license.
